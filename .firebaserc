@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "acs-ui": "acs-ui",
+    "default": "acs-ui"
+  }
+}
